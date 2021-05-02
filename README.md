@@ -2,7 +2,7 @@
 ![Earthquake](https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/images/sn-seismicH.jpg?itok=I-6a0Sri)
 
 ## Deployment Link
-https://jiuhe2020.github.io/leaflet-challenge/
+
 
 ## Challenge Instructions
 This project utilizes leaflet, Javascript and D3 to visualize the earthquake data from the United States Geological Survey (USGS). The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
@@ -33,6 +33,4 @@ Plot a second data set on the map above to illustrate the relationship between t
   <img src="https://github.com/Jiuhe2020/leaflet-challenge/blob/master/images/Level-2.png">
 </p>
 
----
-### Copyright
-Jiuhe Zhu © 2020. All Rights Reserved.
+
